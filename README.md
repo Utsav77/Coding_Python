@@ -1,2 +1,2 @@
 # Coding_Python
-Solution of July Leetcode challenge 
+Solution code for July Leetcode challenge 
